@@ -1,0 +1,3 @@
+# LP_Apple
+PatagoniaのLPっぽく作ってみた
+ExpaPDのLP作成に向けてのサンプル作成
