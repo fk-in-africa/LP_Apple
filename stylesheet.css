@@ -12,6 +12,7 @@ li {
   background-color: #2A2A57;
   color: #fff;
   height: 90px;
+  font: Belwe Bold;
 }
 
 .header-logo {
@@ -30,7 +31,7 @@ li {
   background-color: #fff;
 }
 .video{
-  position:relative;
+  position: center;
   width:100%;
   padding-top:56.25%;
 }
@@ -38,6 +39,6 @@ li {
   position:absolute;
   top:0;
   right:0;
-  width:100%;
-  height:100%;
+  width: 750px;
+  height: 750px;
 }
